@@ -1,0 +1,5 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+2022-09-03,,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,071a5514-b6d3-3626-523b-17d75d4add35,419199007,SNOMED-CT,Allergy to substance (finding),allergy,environment,,,,,,
+2022-09-03,,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,071a5514-b6d3-3626-523b-17d75d4add35,84489001,SNOMED-CT,Mold (organism),allergy,environment,21626009,Cutaneous hypersensitivity (disorder),MILD,,,
+2022-09-03,,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,071a5514-b6d3-3626-523b-17d75d4add35,1191,RxNorm,Aspirin,allergy,medication,,,,,,
+2022-09-03,,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,071a5514-b6d3-3626-523b-17d75d4add35,3718001,SNOMED-CT,Cow's milk (substance),allergy,food,,,,,,

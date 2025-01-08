@@ -1,0 +1,8 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
+2021-04-07,2021-04-07,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,71de28c8-8741-94b0-c23a-f1f47942be84,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-05-12,2021-05-12,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,d3b1ce4f-494c-f3f7-cc16-fbc02d999133,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-07-14,2022-06-15,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,3b77e092-718a-5ce8-0e8e-b279bb5e1009,http://snomed.info/sct,314529007,Medication review due (situation)
+2022-08-30,2022-09-13,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,60782230-a402-bfd0-65ea-14c5d4ca3119,http://snomed.info/sct,65363002,Otitis media (disorder)
+2022-09-14,2024-03-13,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,6d4c9961-39e6-f14e-cd89-e4840fbbf10b,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-09-20,2023-09-20,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,043fbe71-5fbd-c8d7-f06d-eb53d5eb7048,http://snomed.info/sct,109570002,Primary dental caries (disorder)
+2024-09-11,,023d4b94-bcbb-4c54-ed1b-fbb952ca2b99,c5adf4da-5379-3c48-efeb-4dd00f5b9040,http://snomed.info/sct,314529007,Medication review due (situation)
